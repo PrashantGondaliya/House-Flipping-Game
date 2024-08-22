@@ -1,5 +1,3 @@
-Based on the complete code provided, I can see that the project is a C++-based real estate simulation game. This game involves a series of decisions related to buying, renovating, selling properties, and even trying your luck in finding a treasure. Here's a detailed project description:
-
 ### Project Description
 
 **Introduction:**
